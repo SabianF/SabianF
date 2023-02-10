@@ -4,6 +4,10 @@ I'm Sabian (SAY-be-in)「セービエン」(세비앤)
 
 Founder of Ugeddit | Cognitive Scientist | World & story builder | Music lover | Martial artist
 
+---
+
+*(As of 2023-02-09)*
+
 ### What I'm currently working on
 - Building Ugeddit's first skill trees for **Social Skills** and **Relationship-building** *(These are specific actions & outcomes that people can use to objectively measure their social and people skills)*
 - Finding more people to test and share advice on our skill trees to make them more effective and simple; subscribers will get extra & personalized help
@@ -14,7 +18,7 @@ Founder of Ugeddit | Cognitive Scientist | World & story builder | Music lover |
   1. Seeing it for the first time
   1. Understanding its content
   1. Following its steps
-  1. Getting helpful outcomes from using it
+  1. Evaluating the outcomes they got from using it
 
 ---
 
