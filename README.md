@@ -2,7 +2,7 @@
 
 I'm Sabian (SAY-be-in)「セービエン」(세비앤)
 
-Founder of Ugeddit | Cognitive Scientist | World & story builder | Music lover | Martial artist
+Founder of [Ugeddit](https://ugeddit.com/), chat communities helping people prevent conflict, and be heard
 
 ---
 
