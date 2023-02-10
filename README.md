@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, hello 👋
 
 I'm Sabian (SAY-be-in)「セービエン」(세비앤)
 
