@@ -9,7 +9,7 @@ Founder of [Ugeddit](https://ugeddit.com/), chat communities helping people prev
 *(As of 2023-02-09)*
 
 ### What I'm currently working on
-- Building Ugeddit's first skill trees for **Social Skills** and **Relationship-building** *(These are specific actions & outcomes that people can use to objectively measure their social and people skills)*
+- Building Ugeddit's first skill trees for **Social Skills** and **Relationship-building** *(These are specific actions & outcomes that people can use to objectively measure & master their social and people skills)*
 - Finding more people to test and share advice on our skill trees to make them more effective and simple; subscribers will get extra & personalized help
 - Training **Skill Masters** *(people who've mastered at least 1 skill)* who can help out newer people, and get % of subscriber revenue for providing personalized support
 
