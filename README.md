@@ -19,6 +19,9 @@ Founder of [Ugeddit](https://ugeddit.com/), chat communities helping people prev
   1. Understanding its content
   1. Following its steps
   1. Evaluating the outcomes they got from using it
+- Someone who enjoys engaging with people, hosting mini-events, challenges, etc to help grow the community
+
+If you know someone who may want to help with either of these (or similar), let me know!
 
 ---
 
