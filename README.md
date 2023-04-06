@@ -4,6 +4,20 @@ I'm Sabian (SAY-be-in)「セービエン」(세비앤)
 
 Founder of [Ugeddit](https://ugeddit.com/), chat communities helping people prevent conflict, and be heard
 
+<details>
+  
+  <summary>About me</summary>
+  
+  I grew up with a hard-working mom who did a lot for my sake. This made me very complacent in the past, but gave me a lot of freedom to learn and do what I wanted, from gaming, to tech, cyber, sciences, psychology, and more
+
+  Unfortunately, I grew up feeling very alone. My introversion made it hard to approach new people, and my lack of self-awareness and social skills pushed away the people I DID know, but I overcame this, and had a revelation: I wasn't the only one.
+
+  More and more people are going through the same (or worse) isolation, loneliness, and conflict. But as I've been watching the trends, I found the source of these issues is in the communication people are using; the solution is showing people how to refine it, and once we do, every person will be able to not only resolve conflicts quickly and easily, but also grow connection and happy relationships, bringing the world together.
+
+  This is why I started Ugeddit.
+  
+</details>
+
 ---
 
 *(As of 2023-02-09)*
