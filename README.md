@@ -25,7 +25,7 @@ Founder of [Ugeddit](https://ugeddit.com/), chat communities helping people be h
 
 ---
 
-*(Last updated: 2023-05-05 15:15 PST)*
+*(Last updated: 2023-05-05)*
 
 # What I'm currently doing
 - **Searching for** and reaching out to people who want to improve their social/people skills, relationships, or similar aspects, and asking if want to test our CNC skill tree, so they can see how well it works for them in their real-life situations, and share what happens
