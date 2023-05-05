@@ -1,6 +1,6 @@
 # Hey 👋😀 I'm Sabian (SAY-be-in)「セビエン」(세비앤)
 
-Founder of [Ugeddit](https://ugeddit.com/), chat communities helping people prevent conflict, and be heard
+Founder of [Ugeddit](https://ugeddit.com/), chat communities helping people be heard, and feel connected
 
 <details>
   
