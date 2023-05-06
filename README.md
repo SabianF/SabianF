@@ -48,7 +48,7 @@ I'm the founder of [Ugeddit](https://ugeddit.com/), chat communities helping peo
   
   ### My preferences
   - Sum total of additional income (from all sources) would contribute towards
-    - Comfortable $5k/month
+    - Comfortable $5k/month (CAD)
     - Decent $3k/month
     - Survivable (for now) $500/month
   - Industries / categories
