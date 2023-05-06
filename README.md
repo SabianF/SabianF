@@ -144,10 +144,10 @@ If you know someone who may want to help with any of these, I'd be happy if you 
 
 ## Music (lyrical, non-English)
 - 얼음들 - AKMU (Melted - Akdong Musician)
-  - [MV with visual storytelling focus](https://youtu.be/sUCIzn0mRHc)
+  - [MV with visual storytelling](https://youtu.be/sUCIzn0mRHc) (No lyrics necessary to understand)
   - [Lyrics](https://youtu.be/KjnMV28m4q8)
 - 上白石萌音「懐かしい未来」(Nostalgic Future - Mone Kamishiraishi)
-  - [MV](https://youtu.be/7NHagtFrp6Y)
+  - [MV with visual storytelling](https://youtu.be/7NHagtFrp6Y) (No lyrics necessary to understand)
   - [Lyrics](https://www.cevirce.com/lyrics/en/mone-kamishiraishi-懐かしい未来-japanese-lyrics-english-translations.html) (These were not easy to find)
 - Om Tare Tu Tare Ture Soha - Ballad from Tibet
   - [Song clip from movie](https://youtu.be/ayGQoJdRcdQ)
