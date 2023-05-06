@@ -144,14 +144,14 @@ If you know someone who may want to help with any of these, I'd be happy if you 
 
 ## Music (lyrical, non-English)
 - 얼음들 - AKMU (Melted - Akdong Musician)
-  - MV visual storytelling focus: https://youtu.be/sUCIzn0mRHc
-  - Lyrics: https://youtu.be/KjnMV28m4q8
+  - [MV with visual storytelling focus](https://youtu.be/sUCIzn0mRHc)
+  - [Lyrics](https://youtu.be/KjnMV28m4q8)
 - 上白石萌音「懐かしい未来」(Nostalgic Future - Mone Kamishiraishi)
-  - MV: https://youtu.be/7NHagtFrp6Y
-  - Lyrics: https://www.cevirce.com/lyrics/en/mone-kamishiraishi-懐かしい未来-japanese-lyrics-english-translations.html
+  - [MV](https://youtu.be/7NHagtFrp6Y)
+  - [Lyrics](https://www.cevirce.com/lyrics/en/mone-kamishiraishi-懐かしい未来-japanese-lyrics-english-translations.html) (These were not easy to find)
 - Om Tare Tu Tare Ture Soha - Ballad from Tibet
-  - Song clip from movie: https://youtu.be/ayGQoJdRcdQ
-  - Movie: https://youtu.be/KjR-wHtUlRM
+  - [Song clip from movie](https://youtu.be/ayGQoJdRcdQ)
+  - [Movie](https://youtu.be/KjR-wHtUlRM)
 - Wolf Totem - The HU
 
 ## Videogame stories/worlds
@@ -160,9 +160,9 @@ If you know someone who may want to help with any of these, I'd be happy if you 
 - The Elder Scrolls
 
 ## Bonus
-- Final Fantasy X Ending ( https://youtu.be/bRWkniXDC_4 )
-- Astartes animations ( https://youtu.be/DVXEYksoE6c )
-- The Great Dictator Speech - Charlie Chaplin + Time - Hans Zimmer ( https://youtu.be/w8HdOHrc3OQ )
+- [Final Fantasy X Ending](https://youtu.be/bRWkniXDC_4)
+- [Astartes animations](https://youtu.be/DVXEYksoE6c)
+- [The Great Dictator Speech - Charlie Chaplin + Time - Hans Zimmer](https://youtu.be/w8HdOHrc3OQ)
 
 </details>
 
