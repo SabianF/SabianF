@@ -71,7 +71,7 @@ I'm the founder of [Ugeddit](https://ugeddit.com/), chat communities helping peo
 </details>
 
 # What would help me with Ugeddit the most right now
-- **Meeting** at least 1 more person who wants to test 1 or more items of a skill tree and share their experience
+- **Meeting** at least 1 more person who wants to test our social skills mastery skill tree (CNC) and share their experience
   1. Seeing it for the first time
   1. Understanding its content
   1. Following its steps
