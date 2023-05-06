@@ -39,9 +39,20 @@ Founder of [Ugeddit](https://ugeddit.com/), chat communities helping people be h
   <summary>My values, preferences, and skills</summary>
   
   ### My values
-  - asd
+  - Open, authentic, helpful communication
+  - Accountability to promises/words/statements
+  - Freedom of time, deliverables-based expectations ([ROWE](https://www.techtarget.com/whatis/definition/Results-Only-Work-Environment-ROWE))
+  - Continuous feedback, learning, & improvement
   
-  ### My skills
+  ### My preferences
+  - Sum total of additional income (from all sources) would contribute towards
+    - Comfortable $5k/month
+    - Decent $3k/month
+    - Survivable (for now) $500/month
+  
+  ### My skills (in desc order of preference)
+  - Advising: technology, UX, process-improvement, ...
+  - HPC (High-performance coaching): Goal-setting, decision-making, productivity, communication, mental wellness, ...
   - asd
 
 </details>
