@@ -66,7 +66,7 @@ I'm the founder of [Ugeddit](https://ugeddit.com/), chat communities helping peo
     - Experience design (Persona definition, journey design, gamification)
     - Front/back/fullstack development (Low-code [WordPress, Webflow], JS UI frameworks [Next, React], Dart, NodeJS, Docker, AWS)
   - **Deliverables-based roles**: Same as above
-  - **Time-based roles**: Same as above
+  - **Part-time roles with clear deliverables**: Same as above
 
 </details>
 
