@@ -60,7 +60,9 @@ Founder of [Ugeddit](https://ugeddit.com/), chat communities helping people be h
   - **Advising**: Experience design (UX, CX, EX), leadership, technology, project management, process-improvement, ...
   - **HPC** (High-performance coaching): Goal-setting, decision-making, productivity, communication, mental wellness, ...
   - **Consulting, projects**: Scrum master, project management, UX design, web development,
-  - **Paid deliverables**: front/back/fullstack development (Dart, JS UI frameworks [Next, React], NodeJS)
+  - **Paid deliverables**
+    - Experience design (Persona definition, journey design, gamification)
+    - Front/back/fullstack development (Low-code [WordPress, Webflow], JS UI frameworks [Next, React], Dart, NodeJS, Docker, AWS)
   - **Deliverables-based roles**: Same as above
   - **Time-based roles**: Same as above
 
