@@ -35,7 +35,7 @@ I'm the founder of [Ugeddit](https://ugeddit.com/), chat communities helping peo
 - **Iterating & improving** Ugeddit's first skill trees for **Social Skills** and **Relationship-building** *("Skill Trees" are specific outcomes and actions that people can use to objectively measure & master their real-world skills)*
 
 # What would help me personally right now
-- **Being told about** a paid gig, project, or role I can work on to support my living costs, so I can survive to bring Ugeddit to sustainable revenue generation
+- **Being introduced to or told about** a paid opportunity, project, or role I can work on to support my living costs, so I can survive to bring Ugeddit to sustainable revenue generation
   <details>
 
   <summary>My values, preferences, and skills</summary>
