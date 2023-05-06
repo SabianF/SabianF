@@ -41,7 +41,7 @@ Founder of [Ugeddit](https://ugeddit.com/), chat communities helping people be h
   ### My values
   - Open, authentic, helpful communication
   - Accountability to promises/words/statements
-  - Freedom of time, deliverables-based expectations ([ROWE](https://www.techtarget.com/whatis/definition/Results-Only-Work-Environment-ROWE))
+  - Freedom of time, deliverables-based expectations (Ideally [ROWE](https://www.techtarget.com/whatis/definition/Results-Only-Work-Environment-ROWE))
   - Continuous feedback, learning, & improvement
   
   ### My preferences
@@ -49,11 +49,20 @@ Founder of [Ugeddit](https://ugeddit.com/), chat communities helping people be h
     - Comfortable $5k/month
     - Decent $3k/month
     - Survivable (for now) $500/month
+  - Industries / categories
+    - Game design/development (Bethesda, etc)
+    - Educational platforms
+    - Community/communication/teamwork platforms
+    - Small/mid business websites/apps
   
-  ### My skills (in desc order of preference)
-  - Advising: technology, UX, process-improvement, ...
-  - HPC (High-performance coaching): Goal-setting, decision-making, productivity, communication, mental wellness, ...
-  - asd
+  ### My skills
+  *(Most-preferred ones are first)*
+  - **Advising**: Experience design (UX, CX, EX), leadership, technology, project management, process-improvement, ...
+  - **HPC** (High-performance coaching): Goal-setting, decision-making, productivity, communication, mental wellness, ...
+  - **Consulting, projects**: Scrum master, project management, UX design, web development,
+  - **Paid deliverables**: front/back/fullstack development (Dart, JS UI frameworks [Next, React], NodeJS)
+  - **Deliverables-based roles**: Same as above
+  - **Time-based roles**: Same as above
 
 </details>
 
