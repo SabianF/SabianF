@@ -1,4 +1,4 @@
-# Hey 👋😀 I'm Sabian (SAY-be-in)「セビエン」(세비앤)
+# Hey 👋😀 I'm Sabian (SAY-be-in)「セービエン」(세비앤)
 
 Founder of [Ugeddit](https://ugeddit.com/), chat communities helping people be heard, and feel connected
 
