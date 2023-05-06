@@ -143,11 +143,16 @@ If you know someone who may want to help with any of these, I'd be happy if you 
 - The Search - NF
 
 ## Music (lyrical, non-English)
-- 床邊故事 - 周杰倫 (Bedtime Stories - Jay Chou)
-- 낙하 - AKMU (Nakka - Akdong Musicians)
-- Wolf Totem - The HU
+- 얼음들 - AKMU (Melted - Akdong Musician)
+  - MV visual storytelling focus: https://youtu.be/sUCIzn0mRHc
+  - Lyrics: https://youtu.be/KjnMV28m4q8
 - 上白石萌音「懐かしい未来」(Nostalgic Future - Mone Kamishiraishi)
+  - MV: https://youtu.be/7NHagtFrp6Y
+  - Lyrics: https://www.cevirce.com/lyrics/en/mone-kamishiraishi-懐かしい未来-japanese-lyrics-english-translations.html
 - Om Tare Tu Tare Ture Soha - Ballad from Tibet
+  - Song clip from movie: https://youtu.be/ayGQoJdRcdQ
+  - Movie: https://youtu.be/KjR-wHtUlRM
+- Wolf Totem - The HU
 
 ## Videogame stories/worlds
 - Final Fantasy X
