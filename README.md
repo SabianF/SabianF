@@ -19,8 +19,6 @@ And I make damned sure everything I do brings these to life
 
 ---
 
-*(Last updated: 2023-05-18)*
-
 # What would help me the most right now
 - **Finding** a project or role I can help with that supports my costs, so I can survive to bring Ugeddit to sustainable revenue generation
   
