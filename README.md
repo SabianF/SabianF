@@ -32,7 +32,7 @@ I'm the founder of [Ugeddit](https://ugeddit.com/), chat communities helping peo
 # What would help me the most right now
 - **Finding** a project or role I can help with that supports my costs, so I can survive to bring Ugeddit to sustainable revenue generation
   
-## How I can help
+## Skills I know
 - **Advising**: Experience design (UX, CX, EX), leadership, technology, project management, process-improvement, ...
 - **HPC** (High-performance coaching): Goal-setting, decision-making, productivity, communication, mental wellness, ...
 - **Projects**
@@ -42,7 +42,7 @@ I'm the founder of [Ugeddit](https://ugeddit.com/), chat communities helping peo
 - **Deliverables-based roles**: Same as Projects
 - **Part-time roles with clear deliverables**: Same as Projects
 
-## My preferences
+## Preferences I have
 - Rather than flat, time-based arrangements, I prefer to deliver real, measurable value to people as soon as possible, where I only get paid based on the value created
 - Amount of income I need to
   - Be comfortable $5k/month (CAD)
@@ -54,7 +54,7 @@ I'm the founder of [Ugeddit](https://ugeddit.com/), chat communities helping peo
   - Community/communication/teamwork platforms
   - Small/mid business websites/apps
 
-## My values
+## Values I uphold
 - Open, authentic, helpful communication
 - Accountability to promises/words/statements
 - Freedom of time, deliverables-based expectations (Ideally [ROWE](https://www.techtarget.com/whatis/definition/Results-Only-Work-Environment-ROWE))
