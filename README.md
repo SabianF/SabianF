@@ -44,11 +44,11 @@ I'm the founder of [Ugeddit](https://ugeddit.com/), chat communities helping peo
 
 ## Preferences I have
 - Rather than flat, time-based arrangements, I prefer to deliver real, measurable value to people as soon as possible, where I only get paid based on the value created
-- Amount of income I need to
-  - Be comfortable $5k/month (CAD)
-  - Function decently $3k/month
-  - Survive (for now) $1.5k/month
-- Industries / categories
+- Amount of income I need
+  - To be comfortable $5k/month (CAD)
+  - To function decently $3k/month
+  - To survive (for now) $2k/month
+- Ideal industries / categories
   - Game design/development (Bethesda, etc)
   - Educational platforms (software development, STEM)
   - Community/communication/teamwork platforms
@@ -63,6 +63,10 @@ I'm the founder of [Ugeddit](https://ugeddit.com/), chat communities helping peo
 If you know someone who could use help in these areas or similar ones, let me know (and let them know)!
 
 ---
+
+<details>
+
+<summary>Ugeddit goals</summary>
 
 # What I'm currently doing with Ugeddit
 - **Searching for** and reaching out to people who want to improve their social/people skills, relationships, or similar aspects, and asking if want to test our CNC skill tree, so they can see how well it works for them in their real-life situations, and share what happens
@@ -79,6 +83,8 @@ If you know someone who could use help in these areas or similar ones, let me kn
 - **Getting to know** someone who enjoys engaging with people, hosting mini-events, challenges, etc who may want to chat about helping to grow Ugeddit's Discord community
 
 If you know someone who may want to help with any of these, I'd be happy if you let them (and me) know!
+  
+</details>
 
 ---
 
