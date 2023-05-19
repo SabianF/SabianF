@@ -53,7 +53,7 @@ I'm the founder of [Ugeddit](https://ugeddit.com/), chat communities helping peo
     - Minimum (for now) $1.5k/month
   - Industries / categories
     - Game design/development (Bethesda, etc)
-    - Educational platforms
+    - Educational platforms (software development, STEM)
     - Community/communication/teamwork platforms
     - Small/mid business websites/apps
   
