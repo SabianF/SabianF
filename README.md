@@ -62,8 +62,12 @@ I'm the founder of [Ugeddit](https://ugeddit.com/), chat communities helping peo
     - Front/back/fullstack development (Low-code [WordPress, Webflow], JS UI frameworks [Next, React], Dart, NodeJS, Docker, AWS)
   - **Deliverables-based roles**: Same as above
   - **Part-time roles with clear deliverables**: Same as above
+  
+  If you know someone who could use help in these areas, let me know (and let them know)!
 
 </details>
+
+---
 
 # What I'm currently doing with Ugeddit
 - **Searching for** and reaching out to people who want to improve their social/people skills, relationships, or similar aspects, and asking if want to test our CNC skill tree, so they can see how well it works for them in their real-life situations, and share what happens
