@@ -34,7 +34,7 @@ I'm the founder of [Ugeddit](https://ugeddit.com/), chat communities helping peo
 - **Being available for** people learning skill trees, so they can quickly become **Skill Masters** *(people who've reached lv3 for in least 1 skill tree)*, so they can get paid to give personalized support and guidance to newer learners
 - **Iterating & improving** Ugeddit's first skill trees for **Social Skills** and **Relationship-building** *("Skill Trees" are specific outcomes and actions that people can use to objectively measure & master their real-world skills)*
 
-# What would help me personally right now
+# What would help me the most right now
 - **Being introduced to or told about** a paid opportunity, project, or role I can work on to support my living costs, so I can survive to bring Ugeddit to sustainable revenue generation
   <details>
 
@@ -70,7 +70,7 @@ I'm the founder of [Ugeddit](https://ugeddit.com/), chat communities helping peo
 
 </details>
 
-# What would help me with Ugeddit the most right now
+# What would help Ugeddit the most right now
 - **Meeting** more people who want to test our social skills mastery skill tree (CNC) and share their experience
   1. Seeing it for the first time
   1. Understanding its content
