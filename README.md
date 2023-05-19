@@ -31,41 +31,36 @@ I'm the founder of [Ugeddit](https://ugeddit.com/), chat communities helping peo
 
 # What would help me the most right now
 - **Finding** a project or role I can help with that supports my costs, so I can survive to bring Ugeddit to sustainable revenue generation
-  <details>
+  
+## How I can help
+- **Advising**: Experience design (UX, CX, EX), leadership, technology, project management, process-improvement, ...
+- **HPC** (High-performance coaching): Goal-setting, decision-making, productivity, communication, mental wellness, ...
+- **Projects**
+  - Experience design (Persona definition, journey design, gamification, ...)
+  - Scrum master, product management, project management
+  - Front/back/fullstack development (Low-code [WordPress, Webflow], JS UI frameworks [Next, React], NodeJS, Flutter, Docker, AWS)
+- **Deliverables-based roles**: Same as Projects
+- **Part-time roles with clear deliverables**: Same as Projects
 
-  <summary>My values, preferences, and skills</summary>
-  
-  ### My values
-  - Open, authentic, helpful communication
-  - Accountability to promises/words/statements
-  - Freedom of time, deliverables-based expectations (Ideally [ROWE](https://www.techtarget.com/whatis/definition/Results-Only-Work-Environment-ROWE))
-  - Continuous feedback, learning, & improvement
-  
-  ### My preferences
-  - Sum total of additional income (from all sources) would contribute towards
-    - Comfortable $5k/month (CAD)
-    - Decent $3k/month
-    - Minimum (for now) $1.5k/month
-  - Industries / categories
-    - Game design/development (Bethesda, etc)
-    - Educational platforms (software development, STEM)
-    - Community/communication/teamwork platforms
-    - Small/mid business websites/apps
-  
-  ### My skills
-  *(Most-preferred ones are first)*
-  - **Advising**: Experience design (UX, CX, EX), leadership, technology, project management, process-improvement, ...
-  - **HPC** (High-performance coaching): Goal-setting, decision-making, productivity, communication, mental wellness, ...
-  - **Projects**
-    - Experience design (Persona definition, journey design, gamification)
-    - Scrum master, product management, project management
-    - Front/back/fullstack development (Low-code [WordPress, Webflow], JS UI frameworks [Next, React], Dart, NodeJS, Docker, AWS)
-  - **Deliverables-based roles**: Same as above
-  - **Part-time roles with clear deliverables**: Same as above
-  
-  If you know someone who could use help in these areas, let me know (and let them know)!
+## My preferences
+- Rather than flat, time-based arrangements, I prefer to deliver real, measurable value to people as soon as possible, where I only get paid based on the value created
+- Amount of income I need to
+  - Be comfortable $5k/month (CAD)
+  - Function decently $3k/month
+  - Survive (for now) $1.5k/month
+- Industries / categories
+  - Game design/development (Bethesda, etc)
+  - Educational platforms (software development, STEM)
+  - Community/communication/teamwork platforms
+  - Small/mid business websites/apps
 
-</details>
+## My values
+- Open, authentic, helpful communication
+- Accountability to promises/words/statements
+- Freedom of time, deliverables-based expectations (Ideally [ROWE](https://www.techtarget.com/whatis/definition/Results-Only-Work-Environment-ROWE))
+- Continuous feedback, learning, & improvement
+
+If you know someone who could use help in these areas or similar ones, let me know (and let them know)!
 
 ---
 
