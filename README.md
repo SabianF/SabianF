@@ -13,17 +13,17 @@ I'm the founder of [Ugeddit](https://ugeddit.com/), chat communities helping peo
   I also grew up feeling very alone. My introversion made it hard to approach new people, and my lack of self-awareness and social skills pushed away the people I **did** know, but I overcame this, and learned ways to communicate what I want to say comfortably and effectively, and have people understand me better. I also had a revelation: I wasn't the only one going through this
 
   More and more people are encountering similar (or worse) isolation, loneliness, and conflict. But, as I've been watching the trends, I determined the source of *all* issues is how people are communicating; the solution is in mastering it, because once they do, people will be able to resolve conflicts quickly and easily, which leads to them growing connection and happy relationships, working together effectively, and bringing the world together
-  
-  I have 3 passions:
-  - Understanding how things work
-  - Making things better
-  - Uplifting people
-
-  And I make damned sure everything I do brings these to life
 
   This is why I started [Ugeddit](https://ugeddit.com/)
   
 </details>
+
+I have 3 passions:
+- Understanding how things work
+- Making things better
+- Uplifting people
+
+And I make damned sure everything I do brings these to life
 
 ---
 
