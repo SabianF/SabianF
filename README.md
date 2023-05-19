@@ -29,13 +29,8 @@ I'm the founder of [Ugeddit](https://ugeddit.com/), chat communities helping peo
 
 *(Last updated: 2023-05-05)*
 
-# What I'm currently doing
-- **Searching for** and reaching out to people who want to improve their social/people skills, relationships, or similar aspects, and asking if want to test our CNC skill tree, so they can see how well it works for them in their real-life situations, and share what happens
-- **Being available for** people learning skill trees, so they can quickly become **Skill Masters** *(people who've reached lv3 for in least 1 skill tree)*, so they can get paid to give personalized support and guidance to newer learners
-- **Iterating & improving** Ugeddit's first skill trees for **Social Skills** and **Relationship-building** *("Skill Trees" are specific outcomes and actions that people can use to objectively measure & master their real-world skills)*
-
 # What would help me the most right now
-- **Being introduced to or told about** a project or role I can help with that will support my living costs, so I can survive to bring Ugeddit to sustainable revenue generation
+- **Finding** a project or role I can help with that supports my costs, so I can survive to bring Ugeddit to sustainable revenue generation
   <details>
 
   <summary>My values, preferences, and skills</summary>
@@ -69,6 +64,11 @@ I'm the founder of [Ugeddit](https://ugeddit.com/), chat communities helping peo
   - **Part-time roles with clear deliverables**: Same as above
 
 </details>
+
+# What I'm currently doing with Ugeddit
+- **Searching for** and reaching out to people who want to improve their social/people skills, relationships, or similar aspects, and asking if want to test our CNC skill tree, so they can see how well it works for them in their real-life situations, and share what happens
+- **Being available for** people learning skill trees, so they can quickly become **Skill Masters** *(people who've reached lv3 for in least 1 skill tree)*, so they can get paid to give personalized support and guidance to newer learners
+- **Iterating & improving** Ugeddit's first skill trees for **Social Skills** and **Relationship-building** *("Skill Trees" are specific outcomes and actions that people can use to objectively measure & master their real-world skills)*
 
 # What would help Ugeddit the most right now
 - **Meeting** more people who want to test our social skills mastery skill tree (CNC) and share their experience
