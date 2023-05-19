@@ -51,7 +51,8 @@ And I make damned sure everything I do brings these to life
 - Freedom of time
 - Continuous feedback, learning, & improvement
 
-If you know someone who could use help in these areas or similar ones, let me know (and let them know)!
+If you want to chat, then [let's talk](https://www.pickmybrain.world/profiles/sabian-finogwar)  
+Or if you know someone, then [let them know about me](https://www.pickmybrain.world/profiles/sabian-finogwar)
 
 ---
 
