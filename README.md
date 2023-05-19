@@ -3,20 +3,12 @@
 안녕하세요! 세비앤 입니다.
 
 I'm the founder of [Ugeddit](https://ugeddit.com/), chat communities helping people be heard, and feel connected
-
-<details>
   
-  <summary>About me</summary>
-  
-  I grew up with a hard-working mom who did a lot for my sake. This made me very complacent in the past, but also gave me a lot of freedom to learn and do what I wanted, from gaming, to tech, cyber, sciences, psychology, and more
+I grew up with a hard-working mom who did a lot for my sake. This made me very complacent in the past, but also gave me a lot of freedom to learn and do what I wanted, from gaming, to tech, cyber, sciences, psychology, and more
 
-  I also grew up feeling very alone. My introversion made it hard to approach new people, and my lack of self-awareness and social skills pushed away the people I **did** know, but I overcame this, and learned ways to communicate what I want to say comfortably and effectively, and have people understand me better. I also had a revelation: I wasn't the only one going through this
+I also grew up feeling very alone. My introversion made it hard to approach new people, and my lack of self-awareness and social skills pushed away the people I **did** know, but I overcame this, and learned ways to communicate what I want to say comfortably and effectively, and have people understand me better. I also had a revelation: I wasn't the only one going through this
 
-  More and more people are encountering similar (or worse) isolation, loneliness, and conflict. But, as I've been watching the trends, I determined the source of *all* issues is how people are communicating; the solution is in mastering it, because once they do, people will be able to resolve conflicts quickly and easily, which leads to them growing connection and happy relationships, working together effectively, and bringing the world together
-
-  This is why I started [Ugeddit](https://ugeddit.com/)
-  
-</details>
+More and more people are encountering similar (or worse) isolation, loneliness, and conflict. But, as I've been watching the trends, I determined the source of *all* issues is how people are communicating; the solution is in mastering it, because once they do, people will be able to resolve conflicts quickly and easily, which leads to them growing connection and happy relationships, working together effectively, and bringing the world together
 
 I have 3 passions:
 - Understanding how things work
@@ -66,7 +58,7 @@ If you know someone who could use help in these areas or similar ones, let me kn
 
 <details>
 
-<summary>Ugeddit goals</summary>
+<summary>Ugeddit's goals</summary>
 
 # What I'm currently doing with Ugeddit
 - **Searching for** and reaching out to people who want to improve their social/people skills, relationships, or similar aspects, and asking if want to test our CNC skill tree, so they can see how well it works for them in their real-life situations, and share what happens
@@ -90,7 +82,7 @@ If you know someone who may want to help with any of these, I'd be happy if you 
 
 <details>
 
-  <summary>Fun facts</summary>
+  <summary>Fun Sabian facts</summary>
 
 ## I...
 - Seem to improve at most things even without actively practising them
