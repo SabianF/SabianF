@@ -20,7 +20,7 @@ And I make damned sure everything I do brings these to life
 ---
 
 # What I currently need
-- **Finding** a project or role that values what I bring, and that supports my costs, so I can survive and grow Ugeddit to create more moments like this:  
+- **Finding** a project or role that values my KSE (knowledge, skills, experience), that supports my costs, so I can survive and grow Ugeddit to create more moments like this:  
   ![appreciations_2023-04-16_zoom](https://github.com/SabianF/SabianF/assets/58588133/a453fd5b-24da-46a5-af3f-e9c298a3b958)
   
 ## I can provide
