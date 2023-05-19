@@ -35,15 +35,15 @@ And I make damned sure everything I do brings these to life
 
 ## I prefer
 - Delivering real, measurable value to people as soon as possible, where I only get paid based on the value created (similar to [ROWE](https://www.techtarget.com/whatis/definition/Results-Only-Work-Environment-ROWE))
-- Amount of income I need
-  - To be comfortable $5k/month (CAD)
-  - To function decently $3k/month
-  - To survive (for now) $2k/month
-- Ideal industries / categories
+- Industries / categories
   - Game design/development (Bethesda, etc)
   - Educational platforms (software development, STEM)
   - Community/communication/teamwork platforms
   - Small/mid business websites/apps
+- Income
+  - Ideal $5k/month (CAD)
+  - Decent $3k/month
+  - Minimum $2k/month
 
 ## I value
 - Open, authentic, helpful communication
@@ -51,6 +51,7 @@ And I make damned sure everything I do brings these to life
 - Freedom of time
 - Continuous feedback, learning, & improvement
 
+## Contact me
 If you want to chat, then [let's talk](https://www.pickmybrain.world/profiles/sabian-finogwar)  
 Or if you know someone, then [let them know about me](https://www.pickmybrain.world/profiles/sabian-finogwar)
 
