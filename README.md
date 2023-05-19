@@ -34,7 +34,7 @@ And I make damned sure everything I do brings these to life
 - **Part-time roles with clear deliverables**: Same as Projects
 
 ## I prefer
-- Rather than flat, time-based arrangements, but delivering real, measurable value to people as soon as possible, where I only get paid based on the value created (similar to [ROWE](https://www.techtarget.com/whatis/definition/Results-Only-Work-Environment-ROWE))
+- Delivering real, measurable value to people as soon as possible, where I only get paid based on the value created (similar to [ROWE](https://www.techtarget.com/whatis/definition/Results-Only-Work-Environment-ROWE))
 - Amount of income I need
   - To be comfortable $5k/month (CAD)
   - To function decently $3k/month
