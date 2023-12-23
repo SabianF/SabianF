@@ -24,22 +24,7 @@ And I make damned sure everything I do brings these to life
   ![appreciations_2023-04-16_zoom](https://github.com/SabianF/SabianF/assets/58588133/a453fd5b-24da-46a5-af3f-e9c298a3b958)
   
 ## I can provide
-- **Advising**: Experience design (UX, CX, EX), leadership, technology, project management, process-improvement, ...
-- **HPC** (High-performance coaching): Goal-setting, decision-making, productivity, communication, mental wellness, ...
-- **Projects**
-  - Experience design (Persona definition, journey design, gamification, ...)
-  - Scrum master, product management, project management
-  - Front/back/fullstack development (Low-code [WordPress, Webflow], JS UI frameworks [Next, React], NodeJS, Flutter, Docker, AWS)
-- **Deliverables-based roles**: Same as Projects
-- **Part-time roles with clear deliverables**: Same as Projects
-
-## I prefer
-- Delivering real, measurable value to people as soon as possible, where I only get paid based on the value created (similar to [ROWE](https://www.techtarget.com/whatis/definition/Results-Only-Work-Environment-ROWE))
-- Industries / categories
-  - Game design/development (Bethesda, etc)
-  - Educational platforms (software development, STEM)
-  - Community/communication/teamwork platforms
-  - Small/mid business websites/apps
+See [my website](https://sabfino.com/)
 
 ## I value
 - Open, authentic, helpful communication
