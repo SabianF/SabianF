@@ -40,10 +40,6 @@ And I make damned sure everything I do brings these to life
   - Educational platforms (software development, STEM)
   - Community/communication/teamwork platforms
   - Small/mid business websites/apps
-- Income
-  - Ideal $5k/month (CAD)
-  - Decent $3k/month
-  - Minimum $2k/month
 
 ## I value
 - Open, authentic, helpful communication
