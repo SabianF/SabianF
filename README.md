@@ -25,8 +25,9 @@ And I make damned sure everything I do brings these to life
   ![appreciations_2023-04-16_zoom](https://github.com/SabianF/SabianF/assets/58588133/a453fd5b-24da-46a5-af3f-e9c298a3b958)
   
 ## What I can do & provide
-See [my website](https://sabfino.com/)
+- [My personal website](https://sabfino.com/)
 - [A project I was the PM for](https://sabfino.com/aventura-travel-booking-app/)
+- [Some other projects I've done](https://sabfino.com/category/portfolio/)
 
 ## I value
 - Open, authentic, helpful communication
