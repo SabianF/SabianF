@@ -35,8 +35,9 @@ And I make damned sure everything I do brings these to life
 - Designing, simplifying, and implementing **automated systems**
 
 ## Contact me
-If you want to chat, then [let's talk](https://www.pickmybrain.world/profiles/sabian-finogwar?service_id=11277)  
-Or if you know someone, then [let them know about me](https://sabfino.com/)
+If you want to chat, then [let's talk](https://www.pickmybrain.world/profiles/sabian-finogwar?service_id=11277)
+
+Or if you know someone, then you can [share my info with them](https://sabfino.com/)
 
 ---
 
