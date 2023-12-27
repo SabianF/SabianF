@@ -29,10 +29,10 @@ And I make damned sure everything I do brings these to life
 - [A project I was the PM for](https://sabfino.com/aventura-travel-booking-app/)
 - [Some other projects I've done](https://sabfino.com/category/portfolio/)
 
-## I value
-- Open, authentic, helpful communication
-- Accountability to promises/words/statements
-- Continuous feedback, learning, & improvement
+## What I value is
+- Clearly understanding, defining, and measuring **outcomes**
+- Creating, integrating, and multiplying **real value**
+- Designing, simplifying, and implementing **automated systems**
 
 ## Contact me
 If you want to chat, then [let's talk](https://www.pickmybrain.world/profiles/sabian-finogwar)  
