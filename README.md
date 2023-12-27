@@ -26,6 +26,7 @@ And I make damned sure everything I do brings these to life
   
 ## What I can do & provide
 See [my website](https://sabfino.com/)
+- [A project I was the PM for](https://sabfino.com/aventura-travel-booking-app/)
 
 ## I value
 - Open, authentic, helpful communication
