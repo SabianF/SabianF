@@ -20,7 +20,7 @@ And I make damned sure everything I do brings these to life
 ---
 
 # What I currently need
-- To financially stabilize, with clients and referrals
+- To financially stabilize
 - To grow Ugeddit to create more moments like this: 
   ![appreciations_2023-04-16_zoom](https://github.com/SabianF/SabianF/assets/58588133/a453fd5b-24da-46a5-af3f-e9c298a3b958)
   
@@ -32,7 +32,6 @@ And I make damned sure everything I do brings these to life
 ## I value
 - Open, authentic, helpful communication
 - Accountability to promises/words/statements
-- Freedom of time
 - Continuous feedback, learning, & improvement
 
 ## Contact me
