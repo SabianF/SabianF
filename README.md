@@ -20,7 +20,7 @@ And I make damned sure everything I do brings these to life
 ---
 
 # What I currently need
-- To financially stabilize
+- To financially stabilize ideally with gigs or ROWE (results-only work environment) roles, but open to others
 - To grow Ugeddit to create more moments like this: 
   ![appreciations_2023-04-16_zoom](https://github.com/SabianF/SabianF/assets/58588133/a453fd5b-24da-46a5-af3f-e9c298a3b958)
   
