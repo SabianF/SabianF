@@ -2,7 +2,7 @@
 こんにちは！セイビエンです。  
 안녕하세요! 세비앤 입니다.
 
-I'm a Vancouver-born half-Filipino guy who grew up on console games and PCs, and [loves programming, STEM, cognitive science, and more](https://sabfino.com/#what-i-love)
+I'm a Vancouver-born half-Filipino guy who grew up on console games, PCs, and [loves programming, STEM, cognitive science, and more](https://sabfino.com/#what-i-love)
 
 I have 3 passions:
 - Understanding how things work
