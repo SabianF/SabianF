@@ -15,7 +15,7 @@ And I make damned sure everything I do brings these to life
   
 ## What I do
 - [My personal website](https://sabfino.com/)
-- [A project I led](https://sabfino.com/aventura-travel-booking-app/)
+- [A UX design project I led](https://sabfino.com/aventura-travel-booking-app/)
 - [Some other projects I've done](https://sabfino.com/category/portfolio/)
 
 # What I currently need
