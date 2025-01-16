@@ -69,7 +69,7 @@ If you want to chat, or you know someone who might want to talk with me, then he
 - Lord of the Rings
 
 ## TV series
-- Merlin (BBC's The Adventure's of Merlin)
+- Merlin (BBC's The Adventures of Merlin)
 - The Blacklist
 - Mr Robot
 
