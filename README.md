@@ -18,17 +18,12 @@ And I make damned sure everything I do brings these to life
 - [A UX design project I led](https://sabfino.com/aventura-travel-booking-app/)
 - [Some other projects I've done](https://sabfino.com/category/portfolio/)
 
-# What I currently need
-- To financially grow a comfortable buffer of $10k+ CAD, ideally with deliverable-based projects or ROWE (results-only work environment) roles, but open to others
-- To grow my company [Ugeddit](https://ugeddit.com/) to create more moments like these: 
-  ![appreciations_2023-04-16_zoom](https://github.com/SabianF/SabianF/assets/58588133/a453fd5b-24da-46a5-af3f-e9c298a3b958)
-
-## What I value is
+## What I value
 - Clearly understanding, defining, and measuring **outcomes**
 - Creating, integrating, and multiplying **real value**
 - Designing, simplifying, and implementing **automated systems**
 
-## Contact me
+## How to contact me
 If you want to chat, or you know someone who might want to talk with me, then here's my info:
 - [Website](https://sabfino.com/)
 - [LinkedIn](https://www.linkedin.com/in/sabianf/)
